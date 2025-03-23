@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://github.com/jventural/BayesPsyMetrics/blob/main/Logo%20logo_bayes.png" alt="BayesPsyMetrics" width="200" height="200"/>
+ <img src="https://raw.githubusercontent.com/jventural/BayesPsyMetrics/main/logo_bayes.png" alt="BayesPsyMetrics" width="200" height="200"/>
+
 </p>
 
 <h1 align="center">BayesPsyMetrics</h1>
