@@ -80,6 +80,6 @@ plot_bayes_indices(bfit, col_brmsea = "#009E73", col_bcfI = "#E69F00")
 
 ## Author
 
-📦 Desarrollado por **José Ventura León**  
+📦 Desarrollado por **Dr. José Ventura León**  
 🔗 https://joseventuraleon.com/  
 📧 jose.ventura@example.com
