@@ -1,16 +1,19 @@
 Package: BayesPsyMetrics
 Type: Package
-Title: What the Package Does (Title Case)
+Title: Bayesian Psychometrics for Structural Equation Modeling and Beyond
 Version: 0.1.0
 Authors@R: c(
     person(
-      "Jane", "Doe",
-      email = "jane@example.com",
+      "José", "Ventura León",
+      email = "info@joseventuraleon.com",
       role = c("aut", "cre")
     )
   )
-Description: More about what it does (maybe more than one line).
-    Continuation lines should be indented.
-License: What license is it under?
+Description: This package provides a suite of tools for Bayesian psychometric analysis,
+    including functions for evaluating factor loadings and model fit indices using
+    Bayesian methods. The functions leverage the capabilities of the blavaan package
+    and other tidyverse tools to deliver intuitive visualizations and numerical summaries
+    of posterior distributions, thereby facilitating robust model evaluation and diagnostics.
+License: GPL-3
 Encoding: UTF-8
 LazyData: true
